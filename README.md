@@ -15,10 +15,7 @@ We develop a MVP with *Streamlit* for users to esaily classify theirs images to 
 
 ## Files Description
 
-* ***P6_01_test_notebook.ipynb***: machine learning experiments & code for the wrapper
-* ***P6_02_app_README.md***: README of the MVP and link to the github repo
-* ***P6_03_app.zip***: source code of the MVP
-* ***P6_04_presentation.pdf***: projects presentation slideshow (french)
+
 
 ## Data
 
